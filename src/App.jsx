@@ -1,9 +1,9 @@
-import FexaAgentsLanding from "./components/FexaAgentsLanding";
+import FexaAgentLanding from "./components/FexaAgentLanding";
 
 const App=()=>{
   return (
     <div> 
-      <FexaAgentsLanding/>
+      <FexaAgentLanding/>
     </div>
   )
   
